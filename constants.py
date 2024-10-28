@@ -1,0 +1,8 @@
+VOID = 1
+WALL = 2
+BORDER = 3
+
+UP = 10
+RIGHT = 11
+DOWN = 12
+LEFT = 13
